@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=hanac7500&style=flat-square&color=blue" alt=""/>
 </div>
 
 
