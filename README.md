@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hana-chitsaz-7a8620209/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;  <a href="mailto:hanachitsaz@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
+
+
 <!-- view count -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hanac7500&style=flat-square&color=blue" alt=""/>
