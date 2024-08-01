@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### 👩‍💻 About Me :
 
-I am a Software Engineer/Data Scientist with a focus on AI/ML <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> getting my masters in computer science at UMD, College Park. 
+I am a Software Engineer/Data Scientist with a focus on AI/ML <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> getting my masters in computer science at University of Maryland, College Park. 
 
 - :seedling: Exploring Data Science & AI/ML.
 
