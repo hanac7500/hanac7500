@@ -71,14 +71,14 @@ I am a Software Engineer/Data Scientist with a focus on AI/ML <img src="https://
 </div>
 
 
-### :woman_technologist: Scholarships & Certificates :
+### :fire: Scholarships & Certificates :
 - grace hoper x2
 - ml certificates
 
-### :woman_technologist: Resume :
+### :brain: Resume :
 - link to resume
 
 
-### :woman_technologist: Projects :
-- links to projects
+### :ocean: Projects :
+- links to projects & descriptions
 
