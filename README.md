@@ -26,20 +26,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hana+Chitsaz..&hearts;++;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-<!-- linked in -->
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/hana-chitsaz-7a8620209/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> &nbsp;&nbsp;&nbsp;  <a href="mailto:hanachitsaz@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
-
-<!-- view count -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hanac7500&style=flat-square&color=blue" alt=""/>
-</div>
-
-
 
 <!-- banner 
 <div align="center">
@@ -86,4 +72,19 @@ I am a Software Engineer/Data Scientist with a focus on AI/ML <img src="https://
 
 ### :ocean: Projects :
 - links to projects & descriptions
+
+
+
+
+<!-- linked in -->
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/hana-chitsaz-7a8620209/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> &nbsp;&nbsp;&nbsp;  <a href="mailto:hanachitsaz@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<!-- view count -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hanac7500&style=flat-square&color=blue" alt=""/>
+</div>
 
