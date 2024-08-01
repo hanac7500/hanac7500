@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 </div>
  -->
 
- ## Hi there 👋
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hana+Chitsaz..&hearts;++;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
 
 
 <!-- banner 
@@ -32,6 +27,18 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 -->
+<!-- girl bird gif -->
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FqYWltbmo2eXR4bjZpMWZ6MXlyMmFtdXRtb2tlZjk2ZXZkb2R1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" >
+</div>
+
+
+
+<!-- fun text presenter -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hana+Chitsaz..&hearts;++;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
 
 ### :woman_technologist: About Me :
 
