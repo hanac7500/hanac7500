@@ -46,7 +46,7 @@ I am a Software Engineer/Data Scientist with a focus on AI/ML <img src="https://
 
 - :seedling: Exploring Data Science & AI/ML.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: What I'm looking for
 
 
 ### :hammer_and_wrench: Languages and Tools :
