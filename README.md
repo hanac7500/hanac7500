@@ -77,10 +77,12 @@ I am a Software Engineer/Data Scientist with a focus on AI/ML <img src="https://
 - link to resume
 
 
-### :ocean: Projects :
-- links to projects & descriptions
+### :ocean: Projects & Experience :
+- links to projects w/ descriptions
+- work/leadership experience descriptions
 
-
+### 🎻: Hobbies :
+- hobbies
 
 
 <!-- linked in -->
