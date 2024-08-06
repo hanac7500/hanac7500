@@ -70,18 +70,67 @@ I am a Software Engineer/Data Scientist with a focus on AI/ML <img src="https://
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### EDUCATION 
+- University of Maryland, College Park, MD (UMD):  
+ MS, Computer Science  May 2025 
+ BS, Computer Science  Dec. 2023 (Honors Humanities College Citation  Minors 1. Business Analytics 2. Persian Studies) 
+- Stanford University, DeepLearning.AI: Machine Learning Specialization Certificate (Aug. 2024) 
+Supervised Machine Learning; Advanced Learning Algorithms; and Unsupervised Learning, Recommenders, and Reinforcement Learning  
 
-### :fire: Scholarships & Certificates :
-- grace hoper x2
-- ml certificates
+### COMPUTER PROGRAMMING SKILLS
+Proficient in: Java | C |  SQL | R | Excel | Python | Pandas | TensorFlow | Pytorch | Keras | Javascript 
+Familiar with: Ocaml | GCP | Racket | Rust | AVR Assembly Language | CAD | Tableau | C++ 
+
+### RELATED COURSES
+Advanced Data Structures and Algorithms | Data Science (Analytics & Visualization) | Machine Learning | Natural Language Processing | Computer Vision | Database Design | Computer Systems | Compilers |  Dynamic Programming | Web Development | Human-Computer Interaction
+
+
+### :fire: Scholarships :
+Scholarship for CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing Conference (Fall 2024)
+Scholarship for Grace Hopper Celebration Conference (Fall 2023 & Fall 2021) 
 
 ### :brain: Resume :
 - link to resume
 
 
-### :ocean: Projects & Experience :
-- links to projects w/ descriptions
-- work/leadership experience descriptions
+### :ocean: COMPUTER SCIENCE-RELATED WORK EXPERIENCE :
+- University of Maryland, Computer Science Graduate Researcher: Fall 2023-Present
+Researching methods of accelerating recommendation systems and LLMs using various tools and techniques like MQSim and Deep Learning Recommendation Model traces to optimize LLM and Recommendation Model bottlenecks under Professor Asgari at UMD’s Computer Architecture and Systems Lab (CASL)
+Exploring the intersections of healthcare and technology (AI/ML and Computer Architecture)
+
+- Deutsche Bank, Technology and Data Analyst Intern: Summer 2023
+Worked in Deutsche Bank’s Research Team debugging existing projects, creating RESTful microservices and UIs, and building NLP models to analyze and interpret company and competitors’ data primarily using Java, Google Cloud Services, and Python 
+Team awarded Best Use of AI for the creation of an Inbound Voice to Virtual Assistant and Conversational Chat in DB’s Global Hackathon Competition, Cary NC
+
+- University of Maryland, Computer Science Teaching Assistant: Fall 2021 - Present
+Developed, organized, and led multiple courses on Java, C, and linux (Specifically OOP & C Programming)
+Worked alongside professors, Dr. Jandelyn Plane and Professor Elias Gonzalez and gained a deep understanding of both languages by teaching and helping others clearly understand programming concepts
+
+- University of Maryland, Business Analytics Teaching Assistant: Spring 2022 - Fall 2023
+Managed and taught students on the subject of Business Analytics in Quantitative Models for Management Decisions and for the equivalent graduate level course
+Worked alongside professor and department head, Dr. Kazim Ruhi
+
+- University of Maryland, Iribe Initiative for Inclusion and Diversity in Computing (I4C) Ambassador: Fall 2021
+Collaborated with peers and superiors to lead, manage, and teach students in K-12 schooling computer science and technology concepts
+
+### PROJECTS
+<a href="https://drive.google.com/file/d/1ElTfkpib9fXbmbN2bwCasBrnAUlv-sC3/view?usp=sharing"> data science </a>
+
+<a href="https://github.com/ldoney/spite/blob/main/summary.pdf"> compilers </a>
+
+<a href="https://www.hackster.io/musical-cocoon/musical-cocoon-4ed723"> HCI </a>
+
+<a href="https://docs.google.com/presentation/d/1840acpgK6HQD_2RTAEOuwvzGrN0EmnPRu6yMz4PkwN4/edit?usp=sharing"> NLP models </a>
+
+<a href="https://docs.google.com/presentation/d/1Ty28UHlwvML5CkVSdi1XQH0qI_9832yCvOff6F63eko/edit?usp=sharing"> Best Use of AI </a>
+<!--> <a href="">  </a> 
+
+### LANGUAGES 
+- Fluent in English and Farsi | Proficient in Spanish
+
+### STUDENT ORGANIZATION MEMBERSHIP 
+- Graduate Advisor for & Active member of UMD’s Association for Women in Computing (AWC)
+- Member of Association for Computing Machinery (ACM)
 
 ### 🎻: Hobbies :
 - hobbies
