@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  -->
 
 ## Website In Progress!
-## Hana Chitsaz
+## Hana Chitsaz 
 
 <!-- banner 
 <div align="center">
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!-- fun text presenter -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hana+Chitsaz..&hearts;++;Computer+Science+Student,;Active+Learner/Researcher..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hana+Chitsaz..&hearts;++;Student,+Researcher,+Active+Learner.."></a>
 </p>
 
 
