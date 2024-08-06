@@ -37,18 +37,39 @@ Here are some ideas to get you started:
 
 <!-- fun text presenter -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hana+Chitsaz..&hearts;++;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hana+Chitsaz..&hearts;++;Computer+Science+Student,;Active+Learner/Researcher..<3"></a>
 </p>
 
 
 
-### 👩‍💻 About Me :
+### 🦋 ABOUT ME 
 
-I am a Software Engineer/Data Scientist with a focus on AI/ML <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> getting my masters in computer science at University of Maryland, College Park. 
+Hi! My name is Hana and I'm a Computer Science graduate student at University of Maryland, College Park (UMD)! 
 
-- :seedling: Exploring Data Science & AI/ML.
+Currently I'm....
+- :seedling: Working on Data Science & AI/ML techniques.
+- 👩‍🎓: Completing my Masters Degree!
 
-- :zap: What I'm looking for
+My Goals...
+- :zap:  Make data into information!
+- 🤝: Use my technical and personal skills to create change and help people all over the world!
+
+### :turtle: EDUCATION 
+<pre>
+University of Maryland, College Park, MD (UMD):  
+
+ - MS, Computer Science  May 2025 
+ - BS, Computer Science  Dec. 2023
+    (Honors Humanities College Citation  Minors 1. Business Analytics 2. Persian Studies)
+
+Stanford University, DeepLearning.AI: 
+ - Machine Learning Specialization Certificate (Aug. 2024) 
+    Supervised Machine Learning; Advanced Learning Algorithms; and Unsupervised Learning, Recommenders, and Reinforcement Learning  
+
+</pre>
+### 👩‍💻 COMPUTER PROGRAMMING SKILLS
+Proficient in: Java | C |  SQL | R | Excel | Python | Pandas | TensorFlow | Pytorch | Keras | Javascript 
+Familiar with: Ocaml | GCP | Racket | Rust | AVR Assembly Language | CAD | Tableau | C++ 
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -70,49 +91,43 @@ I am a Software Engineer/Data Scientist with a focus on AI/ML <img src="https://
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### EDUCATION 
-- University of Maryland, College Park, MD (UMD):  
- MS, Computer Science  May 2025 
- BS, Computer Science  Dec. 2023 (Honors Humanities College Citation  Minors 1. Business Analytics 2. Persian Studies) 
-- Stanford University, DeepLearning.AI: Machine Learning Specialization Certificate (Aug. 2024) 
-Supervised Machine Learning; Advanced Learning Algorithms; and Unsupervised Learning, Recommenders, and Reinforcement Learning  
-
-### COMPUTER PROGRAMMING SKILLS
-Proficient in: Java | C |  SQL | R | Excel | Python | Pandas | TensorFlow | Pytorch | Keras | Javascript 
-Familiar with: Ocaml | GCP | Racket | Rust | AVR Assembly Language | CAD | Tableau | C++ 
-
 ### RELATED COURSES
 Advanced Data Structures and Algorithms | Data Science (Analytics & Visualization) | Machine Learning | Natural Language Processing | Computer Vision | Database Design | Computer Systems | Compilers |  Dynamic Programming | Web Development | Human-Computer Interaction
 
 
 ### :fire: Scholarships :
-Scholarship for CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing Conference (Fall 2024)
-Scholarship for Grace Hopper Celebration Conference (Fall 2023 & Fall 2021) 
+
+  CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing Conference Scholarship (Fall 2024)
+  
+  Scholarship for Grace Hopper Celebration Conference Scholarship (Fall 2023 & Fall 2021) 
+
 
 ### :brain: Resume :
-- link to resume
-
+<a href="https://docs.google.com/document/d/1qUgDYYxinzVazdmUksZCf17AlM_IqwmqyiafyrL299c/edit?usp=sharing"> Resume</a>
 
 ### :ocean: COMPUTER SCIENCE-RELATED WORK EXPERIENCE :
-- University of Maryland, Computer Science Graduate Researcher: Fall 2023-Present
-Researching methods of accelerating recommendation systems and LLMs using various tools and techniques like MQSim and Deep Learning Recommendation Model traces to optimize LLM and Recommendation Model bottlenecks under Professor Asgari at UMD’s Computer Architecture and Systems Lab (CASL)
-Exploring the intersections of healthcare and technology (AI/ML and Computer Architecture)
+<pre>
+University of Maryland, Computer Science Graduate Researcher: Fall 2023-Present
+- Researching methods of accelerating recommendation systems and LLMs using various tools and techniques like MQSim and Deep Learning Recommendation Model traces to optimize LLM and Recommendation Model bottlenecks under Professor Asgari at UMD’s Computer Architecture and Systems Lab (CASL)
+- Exploring the intersections of healthcare and technology (AI/ML and Computer Architecture)
 
-- Deutsche Bank, Technology and Data Analyst Intern: Summer 2023
-Worked in Deutsche Bank’s Research Team debugging existing projects, creating RESTful microservices and UIs, and building NLP models to analyze and interpret company and competitors’ data primarily using Java, Google Cloud Services, and Python 
-Team awarded Best Use of AI for the creation of an Inbound Voice to Virtual Assistant and Conversational Chat in DB’s Global Hackathon Competition, Cary NC
+Deutsche Bank, Technology and Data Analyst Intern: Summer 2023
+- Worked in Deutsche Bank’s Research Team debugging existing projects, creating RESTful microservices and UIs, and building NLP models to analyze and interpret company and competitors’ data primarily using Java, Google Cloud Services, and Python 
+- Team awarded Best Use of AI for the creation of an Inbound Voice to Virtual Assistant and Conversational Chat in DB’s Global Hackathon Competition, Cary NC
 
-- University of Maryland, Computer Science Teaching Assistant: Fall 2021 - Present
-Developed, organized, and led multiple courses on Java, C, and linux (Specifically OOP & C Programming)
-Worked alongside professors, Dr. Jandelyn Plane and Professor Elias Gonzalez and gained a deep understanding of both languages by teaching and helping others clearly understand programming concepts
+University of Maryland, Computer Science Teaching Assistant: Fall 2021 - Present
+- Developed, organized, and led multiple courses on Java, C, and linux (Specifically OOP & C Programming)
+- Worked alongside professors, Dr. Jandelyn Plane and Professor Elias Gonzalez and gained a deep understanding of both languages by teaching and helping others clearly understand programming concepts
 
-- University of Maryland, Business Analytics Teaching Assistant: Spring 2022 - Fall 2023
-Managed and taught students on the subject of Business Analytics in Quantitative Models for Management Decisions and for the equivalent graduate level course
-Worked alongside professor and department head, Dr. Kazim Ruhi
+University of Maryland, Business Analytics Teaching Assistant: Spring 2022 - Fall 2023
+- Managed and taught students on the subject of Business Analytics in Quantitative Models for Management Decisions and for the equivalent graduate level course
+- Worked alongside professor and department head, Dr. Kazim Ruhi
 
-- University of Maryland, Iribe Initiative for Inclusion and Diversity in Computing (I4C) Ambassador: Fall 2021
-Collaborated with peers and superiors to lead, manage, and teach students in K-12 schooling computer science and technology concepts
+University of Maryland, Iribe Initiative for Inclusion and Diversity in Computing (I4C) Ambassador: Fall 2021
+- Collaborated with peers and superiors to lead, manage, and teach students in K-12 schooling computer science and technology concepts
 
+</pre>
+  
 ### PROJECTS
 <a href="https://drive.google.com/file/d/1ElTfkpib9fXbmbN2bwCasBrnAUlv-sC3/view?usp=sharing"> data science </a>
 
@@ -133,7 +148,8 @@ Collaborated with peers and superiors to lead, manage, and teach students in K-1
 - Member of Association for Computing Machinery (ACM)
 
 ### 🎻: Hobbies :
-- hobbies
+- Violinist
+- Traveler
 
 
 <!-- linked in -->
