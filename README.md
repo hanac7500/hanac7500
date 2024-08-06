@@ -108,27 +108,32 @@ Advanced Data Structures and Algorithms | Data Science (Analytics & Visualizatio
 <a href="https://docs.google.com/document/d/1qUgDYYxinzVazdmUksZCf17AlM_IqwmqyiafyrL299c/edit?usp=sharing"> Resume</a>
 
 ### :ocean: COMPUTER SCIENCE-RELATED WORK EXPERIENCE :
-<pre>
-University of Maryland, Computer Science Graduate Researcher: Fall 2023-Present
+
+#### University of Maryland, Computer Science Graduate Researcher: Fall 2023-Present
+
 - Researching methods of accelerating recommendation systems and LLMs using various tools and techniques like MQSim and Deep Learning Recommendation Model traces to optimize LLM and Recommendation Model bottlenecks under Professor Asgari at UMD’s Computer Architecture and Systems Lab (CASL)
 - Exploring the intersections of healthcare and technology (AI/ML and Computer Architecture)
 
-Deutsche Bank, Technology and Data Analyst Intern: Summer 2023
+#### Deutsche Bank, Technology and Data Analyst Intern: Summer 2023
+
 - Worked in Deutsche Bank’s Research Team debugging existing projects, creating RESTful microservices and UIs, and building NLP models to analyze and interpret company and competitors’ data primarily using Java, Google Cloud Services, and Python 
 - Team awarded Best Use of AI for the creation of an Inbound Voice to Virtual Assistant and Conversational Chat in DB’s Global Hackathon Competition, Cary NC
 
-University of Maryland, Computer Science Teaching Assistant: Fall 2021 - Present
+#### University of Maryland, Computer Science Teaching Assistant: Fall 2021 - Present
+
 - Developed, organized, and led multiple courses on Java, C, and linux (Specifically OOP & C Programming)
 - Worked alongside professors, Dr. Jandelyn Plane and Professor Elias Gonzalez and gained a deep understanding of both languages by teaching and helping others clearly understand programming concepts
 
-University of Maryland, Business Analytics Teaching Assistant: Spring 2022 - Fall 2023
+#### University of Maryland, Business Analytics Teaching Assistant: Spring 2022 - Fall 2023
+
 - Managed and taught students on the subject of Business Analytics in Quantitative Models for Management Decisions and for the equivalent graduate level course
 - Worked alongside professor and department head, Dr. Kazim Ruhi
 
-University of Maryland, Iribe Initiative for Inclusion and Diversity in Computing (I4C) Ambassador: Fall 2021
+#### University of Maryland, Iribe Initiative for Inclusion and Diversity in Computing (I4C) Ambassador: Fall 2021
+
 - Collaborated with peers and superiors to lead, manage, and teach students in K-12 schooling computer science and technology concepts
 
-</pre>
+
   
 ### PROJECTS
 <a href="https://drive.google.com/file/d/1ElTfkpib9fXbmbN2bwCasBrnAUlv-sC3/view?usp=sharing"> data science </a>
