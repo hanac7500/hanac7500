@@ -77,8 +77,11 @@ Proficient in: Java | C |  SQL | R | Python | Pandas | TensorFlow | Pytorch | Ke
 Familiar with: Ocaml | GCP | Racket | Rust | AVR Assembly Language | CAD | Tableau 
 
 ### Websites & Referrences
+
 <a href="https://casl.cs.umd.edu/team/index.html"> CASL </a>
+
 <a href="https://www.cs.umd.edu/people/hchitsaz"> UMD Profile </a>
+
 <a href="https://planetterp.com/professor/chitsaz"> Planet Terp </a>
 
 
