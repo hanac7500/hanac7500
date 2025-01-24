@@ -49,8 +49,9 @@ Here are some ideas to get you started:
 Hi! My name is Hana and I'm a Computer Science graduate student at University of Maryland, College Park (UMD)! 
 
 Currently I'm....
-- :seedling: Working on Data Science & AI/ML techniques.
+- :seedling: Working on simulation & model optimization and characterization.
 - 👩‍🎓: Completing my Masters Degree!
+- 🍎 Pursuing a PhD in Data Science & Machine Learning!
 
 My Goals...
 - :zap:  Make data into information!
@@ -58,8 +59,10 @@ My Goals...
 
 ### :turtle: EDUCATION 
 <pre>
-University of Maryland, College Park, MD (UMD):  
+Pending Decision: 
+ - PhD, Data Science & Machine Learning
 
+University of Maryland, College Park, MD (UMD):  
  - MS, Computer Science  May 2025 
  - BS, Computer Science  Dec. 2023
     (Honors Humanities College Citation  Minors 1. Business Analytics 2. Persian Studies)
@@ -70,8 +73,8 @@ Stanford University, DeepLearning.AI:
 
 </pre>
 ### 👩‍💻 COMPUTER PROGRAMMING SKILLS
-Proficient in: Java | C |  SQL | R | Excel | Python | Pandas | TensorFlow | Pytorch | Keras | Javascript 
-Familiar with: Ocaml | GCP | Racket | Rust | AVR Assembly Language | CAD | Tableau | C++ 
+Proficient in: Java | C |  SQL | R | Python | Pandas | TensorFlow | Pytorch | Keras | Javascript | C++ 
+Familiar with: Ocaml | GCP | Racket | Rust | AVR Assembly Language | CAD | Tableau 
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -105,9 +108,9 @@ Advanced Data Structures and Algorithms | Data Science (Analytics & Visualizatio
   Scholarship for Grace Hopper Celebration Conference Scholarship (Fall 2023 & Fall 2021) 
 
 
-### :brain: Resume :
-<a href="https://docs.google.com/document/d/1qUgDYYxinzVazdmUksZCf17AlM_IqwmqyiafyrL299c/edit?usp=sharing"> Resume</a>
-
+<!--### :brain: Resume :
+ <a href="https://docs.google.com/document/d/1qUgDYYxinzVazdmUksZCf17AlM_IqwmqyiafyrL299c/edit?usp=sharing"> Resume</a>
+<!-->
 ### :ocean: COMPUTER SCIENCE-RELATED WORK EXPERIENCE :
 
 #### University of Maryland, Computer Science Graduate Researcher: Fall 2023-Present
