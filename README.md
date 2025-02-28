@@ -96,7 +96,7 @@ UPDATE!!
 </div>
 
 ### RELATED COURSES
-Advanced Data Structures and Algorithms | Data Science (Analytics & Visualization) | Machine Learning | Natural Language Processing | Computer Vision | Database Design | Computer Systems | Compilers |  Dynamic Programming | Web Development | Human-Computer Interaction
+Advanced Data Structures and Algorithms | Data Science (Statistics, Analytics, & Visualization) | Machine Learning | Natural Language Processing | Database Design | Computer Vision | Computer Systems | Human-Computer Interaction | Dynamic Programming | Web Development | UI/UX | Compilers | Distributed/Parallel Computing
 
 
 ### :fire: Scholarships :
