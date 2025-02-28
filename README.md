@@ -51,7 +51,7 @@ Hi! My name is Hana and I'm a Computer Science graduate student at University of
 Currently I'm....
 - :seedling: Working on simulation & model optimization and characterization.
 - 👩‍🎓: Completing my Masters Degree!
-- 🍎 Pursuing a PhD in Data Science & Machine Learning!
+- 🍎 Interested in Data Science & Machine Learning!
 
 My Goals...
 - :zap:  Make data into information!
@@ -59,9 +59,6 @@ My Goals...
 
 ### :turtle: EDUCATION 
 <pre>
-Pending Decision: 
- - PhD, Data Science & Machine Learning
-
 University of Maryland, College Park, MD (UMD):  
  - MS, Computer Science  May 2025 
  - BS, Computer Science  Dec. 2023
@@ -73,7 +70,7 @@ Stanford University, DeepLearning.AI:
 
 </pre>
 ### 👩‍💻 COMPUTER PROGRAMMING SKILLS
-Proficient in: Java | C |  SQL | R | Python | Pandas | TensorFlow | Pytorch | Keras | Javascript | C++ 
+Proficient in: Java | C |  SQL | R | Python | Pandas | TensorFlow | Pytorch | Keras | Javascript | C++ | Ruby 
 Familiar with: Ocaml | GCP | Racket | Rust | AVR Assembly Language | CAD | Tableau 
 
 ### Websites & Referrences
@@ -141,6 +138,8 @@ Advanced Data Structures and Algorithms | Data Science (Analytics & Visualizatio
 
   
 ### PROJECTS
+Note: Many of the code bases for my projects are not available publicly due to NDA or UMD privacy agreements. However, you can find links to my project presentations and detailed descriptions below.
+
 <a href="https://drive.google.com/file/d/1ElTfkpib9fXbmbN2bwCasBrnAUlv-sC3/view?usp=sharing"> data science </a>
 
 <a href="https://github.com/ldoney/spite/blob/main/summary.pdf"> compilers </a>
@@ -156,8 +155,11 @@ Advanced Data Structures and Algorithms | Data Science (Analytics & Visualizatio
 - Fluent in English and Farsi | Proficient in Spanish
 
 ### STUDENT ORGANIZATION MEMBERSHIP 
-- Graduate Advisor for & Active member of UMD’s Association for Women in Computing (AWC)
 - Member of Association for Computing Machinery (ACM)
+- Graduate Advisor for & Active member of UMD’s Association for Women in Computing (AWC)
+
+  <img src="https://github.com/user-attachments/assets/47070f89-4212-44da-a62d-dbfad491e3f4" alt="awc" width="200" height="160" style="background-color:white;"> 
+  
 
 ### 🎻: Hobbies :
 - Violinist
